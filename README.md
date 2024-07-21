@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Prasad</h1>
 <h3 align="center">A passionate App developer from India</h3>
-
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZpMW5tYnNvdmMyYmJpYzlrOTJ5dTZhOTk4eTR6Z2cwMmx0NzI5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8NkSPltT13H2/giphy.gif" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-1111&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-1111" /> </p>
 
 - 🔭 I’m currently working on **Smart Bin**
